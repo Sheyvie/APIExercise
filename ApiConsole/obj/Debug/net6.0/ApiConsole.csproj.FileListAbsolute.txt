@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\JituTraining\Assessments\Week3 Assessment\API2\ApiConsole\bin\Debug\net6.0\ApiConsole.exe
+C:\Users\USER\Documents\JituTraining\Assessments\Week3 Assessment\API2\ApiConsole\bin\Debug\net6.0\ApiConsole.deps.json
+C:\Users\USER\Documents\JituTraining\Assessments\Week3 Assessment\API2\ApiConsole\bin\Debug\net6.0\ApiConsole.runtimeconfig.json
+C:\Users\USER\Documents\JituTraining\Assessments\Week3 Assessment\API2\ApiConsole\bin\Debug\net6.0\ApiConsole.dll
+C:\Users\USER\Documents\JituTraining\Assessments\Week3 Assessment\API2\ApiConsole\bin\Debug\net6.0\ApiConsole.pdb
+C:\Users\USER\Documents\JituTraining\Assessments\Week3 Assessment\API2\ApiConsole\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\USER\Documents\JituTraining\Assessments\Week3 Assessment\API2\ApiConsole\obj\Debug\net6.0\ApiConsole.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\JituTraining\Assessments\Week3 Assessment\API2\ApiConsole\obj\Debug\net6.0\ApiConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\JituTraining\Assessments\Week3 Assessment\API2\ApiConsole\obj\Debug\net6.0\ApiConsole.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\JituTraining\Assessments\Week3 Assessment\API2\ApiConsole\obj\Debug\net6.0\ApiConsole.AssemblyInfo.cs
+C:\Users\USER\Documents\JituTraining\Assessments\Week3 Assessment\API2\ApiConsole\obj\Debug\net6.0\ApiConsole.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\JituTraining\Assessments\Week3 Assessment\API2\ApiConsole\obj\Debug\net6.0\ApiConsole.csproj.CopyComplete
+C:\Users\USER\Documents\JituTraining\Assessments\Week3 Assessment\API2\ApiConsole\obj\Debug\net6.0\ApiConsole.dll
+C:\Users\USER\Documents\JituTraining\Assessments\Week3 Assessment\API2\ApiConsole\obj\Debug\net6.0\refint\ApiConsole.dll
+C:\Users\USER\Documents\JituTraining\Assessments\Week3 Assessment\API2\ApiConsole\obj\Debug\net6.0\ApiConsole.pdb
+C:\Users\USER\Documents\JituTraining\Assessments\Week3 Assessment\API2\ApiConsole\obj\Debug\net6.0\ApiConsole.genruntimeconfig.cache
+C:\Users\USER\Documents\JituTraining\Assessments\Week3 Assessment\API2\ApiConsole\obj\Debug\net6.0\ref\ApiConsole.dll
